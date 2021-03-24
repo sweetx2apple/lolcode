@@ -1,5 +1,5 @@
 HAI 1.2
-I HAS A friday ITZ "OSUM FRDAY, UR2?"
+I HAS A friday ITZ "OSUM FRDAY, UR2!?"
 VISIBLE friday
 
 I HAS A reply 
